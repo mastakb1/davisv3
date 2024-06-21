@@ -6,7 +6,7 @@ def create_connection():
         host="localhost",         
         user="root",            
         password="",      
-        database="adventureworks_dw2"  
+        database="aw"  
     
     )
 
